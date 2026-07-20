@@ -5,7 +5,7 @@
 </picture>
 
 # 💫 About Me:
-Hey! Welcome to my corner of the internet!<br>When I'm not building marketing intelligence systems, <br>you can usually find me on sailing or building<br>projects around the marine and performance sailing industry. <br>I'm a software engineer by trade, but a sailor by heart. <br>Although saltwater and hardware generally do not mix, <br>here lie my efforts to get stitch them together. 
+Although saltwater and hardware generally do not mix, <br>here lie my efforts to get stitch them together. 
 
 
 ## 🌐 Socials:
